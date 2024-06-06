@@ -19,8 +19,9 @@
 </ul> 
 <h3>Skills🎯</h3>
 <ul type="disc">
-  <li>⌨️Junior C# Developer.</li>
-  <li>🐍Python Junior Developer.</li>
+  <li>⌨️Java Developer.</li>
+  <li>⌨️C# Developer.</li>
+  <li>🐍Python Developer.</li>
   <li>📄English B1.</li>
   <li>🎛Experience in creating electronic devices and programming microcontrollers.</li>
 </ul> 
