@@ -5,8 +5,8 @@
 <h2>Little bit of me😊</h2>
 <h3>Base information📋</h3>
 <ul type="disc">
-  <li>🌅Place of birth: Derbent, Russia.</li>
   <li>🌇Place of study and work: Moscow, Russia.</li>
+  <li>🌅Place of birth: Derbent, Russia.</li>
   <li>📚Education: HSE FCS SE Student.</li>
   <li>💻Additional education: industrial development in Python at the Lyceum of the Yandex Academy.</li>
 </ul> 
@@ -19,9 +19,8 @@
 </ul> 
 <h3>Skills🎯</h3>
 <ul type="disc">
-  <li>⌨️Java Developer.</li>
   <li>⌨️C# Developer.</li>
-  <li>🐍Python Developer.</li>
+  <li>⌨️Kotlin Developer.</li>
   <li>📄English B1.</li>
   <li>🎛Experience in creating electronic devices and programming microcontrollers.</li>
 </ul> 
